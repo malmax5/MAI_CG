@@ -1,0 +1,21 @@
+# ninja log v5
+0	18	1761839941722100238	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	6955768b2866cb8a
+0	18	1761839941722100238	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir	6955768b2866cb8a
+18	1831	1761839943535056755	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	d6d76c2ba34f8f4b
+18	1831	1761839943535056755	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download	d6d76c2ba34f8f4b
+1831	1846	0	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	d059a441ef04df91
+1831	1846	0	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update	d059a441ef04df91
+1846	1862	1761839943566056013	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	a930351253939416
+1846	1862	1761839943566056013	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch	a930351253939416
+1862	1878	1761839943582055630	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	1c5f235e03d0f374
+1862	1878	1761839943582055630	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure	1c5f235e03d0f374
+1878	1894	1761839943598055247	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	cb0cce5382ac9a1b
+1878	1894	1761839943598055247	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build	cb0cce5382ac9a1b
+1894	1910	1761839943614054863	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	8479a4db46b4a11e
+1894	1910	1761839943614054863	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install	8479a4db46b4a11e
+1910	1926	1761839943630054480	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	e5b161da2d946584
+1910	1926	1761839943630054480	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test	e5b161da2d946584
+1926	1952	1761839943656053858	CMakeFiles/vk-bootstrap-populate-complete	aacc872cda8a1d08
+1926	1952	1761839943656053858	vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	aacc872cda8a1d08
+1926	1952	1761839943656053858	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete	aacc872cda8a1d08
+1926	1952	1761839943656053858	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-done	aacc872cda8a1d08

@@ -1,0 +1,14 @@
+# Target labels
+ lodepng-populate
+# Source files and their labels
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update.rule

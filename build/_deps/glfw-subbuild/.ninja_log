@@ -1,0 +1,21 @@
+# ninja log v5
+1	31	1761839919777638041	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	6db244de3490b422
+1	31	1761839919777638041	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	6db244de3490b422
+31	21107	1761839940853121129	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	d2c3cf207fec49b7
+31	21107	1761839940853121129	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	d2c3cf207fec49b7
+21107	21135	0	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	5011de8ea54f0ced
+21107	21135	0	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	5011de8ea54f0ced
+21135	21159	1761839940905119877	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	c17b930dc3662981
+21135	21159	1761839940905119877	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	c17b930dc3662981
+21159	21182	1761839940928119324	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2776f88fc6bcdfa9
+21159	21182	1761839940928119324	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	2776f88fc6bcdfa9
+21182	21203	1761839940949118819	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	e8254c9d5d991d79
+21182	21203	1761839940949118819	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	e8254c9d5d991d79
+21203	21223	1761839940970118312	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	f4fa00dea4182b4e
+21203	21223	1761839940970118312	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	f4fa00dea4182b4e
+21223	21240	1761839940987117903	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	daff1603ac143715
+21223	21240	1761839940987117903	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	daff1603ac143715
+21240	21265	1761839941012117302	CMakeFiles/glfw-populate-complete	4e52b30a8d7a058d
+21240	21265	1761839941012117302	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	4e52b30a8d7a058d
+21240	21265	1761839941012117302	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	4e52b30a8d7a058d
+21240	21265	1761839941012117302	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	4e52b30a8d7a058d

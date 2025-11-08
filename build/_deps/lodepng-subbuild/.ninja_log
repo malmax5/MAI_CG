@@ -1,0 +1,21 @@
+# ninja log v5
+1	23	1761840073109288415	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	fb356d8a565ec7fc
+1	23	1761840073109288415	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-mkdir	fb356d8a565ec7fc
+24	1368	1761840074454262903	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	344c1ef70fc2834c
+24	1368	1761840074454262903	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-download	344c1ef70fc2834c
+1368	1925	0	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	59782b526411b415
+1368	1925	0	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-update	59782b526411b415
+1925	1941	1761840075027252048	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	5bb551343317f174
+1925	1941	1761840075027252048	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-patch	5bb551343317f174
+1941	1958	1761840075044251727	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	150981ed10ee421f
+1941	1958	1761840075044251727	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-configure	150981ed10ee421f
+1958	1974	1761840075061251405	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	1906c80e53a217f0
+1958	1974	1761840075061251405	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-build	1906c80e53a217f0
+1975	1990	1761840075076251122	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	b1971e5702e26483
+1975	1990	1761840075076251122	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-install	b1971e5702e26483
+1990	2007	1761840075093250800	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	db326521f4c63793
+1990	2007	1761840075093250800	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-test	db326521f4c63793
+2007	2032	1761840075118250328	CMakeFiles/lodepng-populate-complete	cff8788a3153a3a0
+2007	2032	1761840075118250328	lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	cff8788a3153a3a0
+2007	2032	1761840075118250328	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/CMakeFiles/lodepng-populate-complete	cff8788a3153a3a0
+2007	2032	1761840075118250328	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/lodepng-subbuild/lodepng-populate-prefix/src/lodepng-populate-stamp/lodepng-populate-done	cff8788a3153a3a0

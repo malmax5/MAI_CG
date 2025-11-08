@@ -1,0 +1,3 @@
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.dir
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/edit_cache.dir
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/rebuild_cache.dir

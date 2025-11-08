@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate-complete.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-build.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-configure.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-download.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-install.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-mkdir.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-patch.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-test.rule
+/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/vk-bootstrap-subbuild/vk-bootstrap-populate-prefix/src/vk-bootstrap-populate-stamp/vk-bootstrap-populate-update.rule

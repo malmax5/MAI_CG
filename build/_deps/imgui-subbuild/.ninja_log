@@ -1,0 +1,21 @@
+# ninja log v5
+1	18	1761839943736051942	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	26af0ffbe2200261
+1	18	1761839943736051942	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	26af0ffbe2200261
+18	129116	1761840072834293640	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	8f58fc010d690203
+18	129116	1761840072834293640	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	8f58fc010d690203
+129116	129137	0	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	9284a2063a9be2f9
+129116	129137	0	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	9284a2063a9be2f9
+129137	129152	1761840072870292955	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	f3b15c40e372d33e
+129137	129152	1761840072870292955	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	f3b15c40e372d33e
+129152	129169	1761840072887292632	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	2a0e605d520b9365
+129152	129169	1761840072887292632	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	2a0e605d520b9365
+129170	129186	1761840072904292309	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	4e325f9cf2ba3441
+129170	129186	1761840072904292309	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	4e325f9cf2ba3441
+129186	129202	1761840072920292005	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	7e801ca1b42ec627
+129186	129202	1761840072920292005	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	7e801ca1b42ec627
+129202	129220	1761840072938291663	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	ee03a4c04a2a375
+129202	129220	1761840072938291663	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	ee03a4c04a2a375
+129220	129242	1761840072960291244	CMakeFiles/imgui-populate-complete	44d995ff4b9544d3
+129220	129242	1761840072960291244	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	44d995ff4b9544d3
+129220	129242	1761840072960291244	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	44d995ff4b9544d3
+129220	129242	1761840072960291244	/home/cbf/MAI/Sem_5/CG/Lab2/build/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	44d995ff4b9544d3
